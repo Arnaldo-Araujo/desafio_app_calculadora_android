@@ -1,2 +1,6 @@
-# desafio_app_calculadora_android
-Desafios criados para melhorar suas habilidades em programa em Android Nativo
+## Desafio 2: Calculadora Básica
+**Nível:** Básico  
+**Descrição:** Crie uma calculadora que permita somar dois números.  
+- Use dois campos de entrada (EditText).  
+- Adicione um botão para calcular.  
+- Exiba o resultado em um TextView.
